@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react'
 import PropTypes from 'prop-types'
 
 import { useDispatch } from 'react-redux'
-import { updateItem, removeItem } from '../redux/shopping-cart/cartItemsSlide'
+// import { updateItem, removeItem } from '../redux/shopping-cart/cartItemsSlide'
 
 import numberWithCommas from '../utils/numberWithCommas'
 import { Link } from 'react-router-dom'
@@ -16,28 +16,28 @@ const CartItem = props => {
     const [item, setItem] = useState(props.item)
     const [quantity, setQuantity] = useState(props.item.quantity)
 
-    useEffect(() => {
-        setItem(props.item)
-        setQuantity(props.item.quantity)
-    }, [props.item])
+    // useEffect(() => {
+    //     setItem(props.item)
+    //     setQuantity(props.item.quantity)
+    // }, [props.item])
 
-    const updateQuantity = (opt) => {
-        if (opt === '+') {
-            dispatch(updateItem({...item, quantity: quantity + 1}))
-        }
-        if (opt === '-') {
-            dispatch(updateItem({...item, quantity: quantity - 1 === 0 ? 1 : quantity - 1}))
-        }
-    }
+    // const updateQuantity = (opt) => {
+    //     if (opt === '+') {
+    //         dispatch(updateItem({...item, quantity: quantity + 1}))
+    //     }
+    //     if (opt === '-') {
+    //         dispatch(updateItem({...item, quantity: quantity - 1 === 0 ? 1 : quantity - 1}))
+    //     }
+    // }
 
     // const updateCartItem = () => {
     //     dispatch(updateItem({...item, quantity: quantity}))
     // }
 
-    const removeCartItem = () => {
-        console.log('removeCartItem')
-        dispatch(removeItem(item))
-    }
+    // const removeCartItem = () => {
+    //     console.log('removeCartItem')
+    //     dispatch(removeItem(item))
+    // }
 
     return (
         <div className="cart__item" ref={itemRef}>
@@ -55,19 +55,19 @@ const CartItem = props => {
                 </div>
                 <div className="cart__item__info__quantity">
                     <div className="product__info__item__quantity">
-                        <div className="product__info__item__quantity__btn" onClick={() => updateQuantity('-')}>
+                        <div className="product__info__item__quantity__btn" >
                             <i className="bx bx-minus"></i>
                         </div>
                         <div className="product__info__item__quantity__input">
                             {quantity}
                         </div>
-                        <div className="product__info__item__quantity__btn" onClick={() => updateQuantity('+')}>
+                        <div className="product__info__item__quantity__btn" >
                             <i className="bx bx-plus"></i>
                         </div>
                     </div>
                 </div>
                 <div className="cart__item__del">
-                    <i className='bx bx-trash' onClick={() => removeCartItem()}></i>
+                    <i className='bx bx-trash' ></i>
                 </div>
             </div>
         </div>

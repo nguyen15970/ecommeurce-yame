@@ -12,6 +12,7 @@
 
     @include mobile {
         margin-top: calc(#{$header-mobile-height} * -1);
+        height:40vh;
     }
 
     &__item {
