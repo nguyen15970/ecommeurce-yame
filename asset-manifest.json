@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ecommeurce-yame/static/css/main.b2707460.chunk.css",
-    "main.js": "/ecommeurce-yame/static/js/main.c7558b9b.chunk.js",
-    "main.js.map": "/ecommeurce-yame/static/js/main.c7558b9b.chunk.js.map",
-    "runtime-main.js": "/ecommeurce-yame/static/js/runtime-main.d48bbf30.js",
-    "runtime-main.js.map": "/ecommeurce-yame/static/js/runtime-main.d48bbf30.js.map",
+    "main.css": "/ecommeurce-yame/static/css/main.03fe42ec.chunk.css",
+    "main.js": "/ecommeurce-yame/static/js/main.6813b430.chunk.js",
+    "main.js.map": "/ecommeurce-yame/static/js/main.6813b430.chunk.js.map",
+    "runtime-main.js": "/ecommeurce-yame/static/js/runtime-main.cecbcae7.js",
+    "runtime-main.js.map": "/ecommeurce-yame/static/js/runtime-main.cecbcae7.js.map",
     "static/js/2.b6d66d6c.chunk.js": "/ecommeurce-yame/static/js/2.b6d66d6c.chunk.js",
     "static/js/2.b6d66d6c.chunk.js.map": "/ecommeurce-yame/static/js/2.b6d66d6c.chunk.js.map",
-    "static/js/3.6fe43753.chunk.js": "/ecommeurce-yame/static/js/3.6fe43753.chunk.js",
-    "static/js/3.6fe43753.chunk.js.map": "/ecommeurce-yame/static/js/3.6fe43753.chunk.js.map",
+    "static/js/3.44d07196.chunk.js": "/ecommeurce-yame/static/js/3.44d07196.chunk.js",
+    "static/js/3.44d07196.chunk.js.map": "/ecommeurce-yame/static/js/3.44d07196.chunk.js.map",
     "index.html": "/ecommeurce-yame/index.html",
-    "static/css/main.b2707460.chunk.css.map": "/ecommeurce-yame/static/css/main.b2707460.chunk.css.map",
+    "static/css/main.03fe42ec.chunk.css.map": "/ecommeurce-yame/static/css/main.03fe42ec.chunk.css.map",
     "static/js/2.b6d66d6c.chunk.js.LICENSE.txt": "/ecommeurce-yame/static/js/2.b6d66d6c.chunk.js.LICENSE.txt",
     "static/media/Logo-2.3f227664.png": "/ecommeurce-yame/static/media/Logo-2.3f227664.png",
     "static/media/banner.3c5f3ab8.png": "/ecommeurce-yame/static/media/banner.3c5f3ab8.png",
@@ -38,15 +38,12 @@
     "static/media/product-11 (1).jpg": "/ecommeurce-yame/static/media/product-11 (1).815006a3.jpg",
     "static/media/product-11 (2).jpg": "/ecommeurce-yame/static/media/product-11 (2).c9bc2660.jpg",
     "static/media/product-12 (1).jpg": "/ecommeurce-yame/static/media/product-12 (1).35b8b824.jpg",
-    "static/media/product-12 (2).jpg": "/ecommeurce-yame/static/media/product-12 (2).54514ffa.jpg",
-    "static/media/slide_1.png": "/ecommeurce-yame/static/media/slide_1.05395af1.png",
-    "static/media/slide_2.png": "/ecommeurce-yame/static/media/slide_2.a5d8646f.png",
-    "static/media/slide_3.png": "/ecommeurce-yame/static/media/slide_3.6e2ad4f2.png"
+    "static/media/product-12 (2).jpg": "/ecommeurce-yame/static/media/product-12 (2).54514ffa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d48bbf30.js",
+    "static/js/runtime-main.cecbcae7.js",
     "static/js/2.b6d66d6c.chunk.js",
-    "static/css/main.b2707460.chunk.css",
-    "static/js/main.c7558b9b.chunk.js"
+    "static/css/main.03fe42ec.chunk.css",
+    "static/js/main.6813b430.chunk.js"
   ]
 }
