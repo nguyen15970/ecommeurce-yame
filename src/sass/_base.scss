@@ -85,6 +85,10 @@ img {
         padding: 0 10px;
     }
 }
+.hero__slider{
+    position:relative;
+    top:$header-height;
+}
 
 .main {
     margin-top: $header-height;

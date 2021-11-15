@@ -1,12 +1,13 @@
 .header {
-    background-color: $main-bg;
+    // background-color: #ccc;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 99;
     height: $header-height;
-    transition: height 0.3s ease;
+    // transition: height 0.3s ease;
+    background-color:#fff;
 
     @include tablet {
         height: $header-tablet-height;
@@ -36,6 +37,8 @@
         position: absolute;
         inset: 0;
         pointer-events: none;
+        font-size:40px;
+        font-family: 'boxicons';
 
         img {
             height: 28px;
@@ -77,6 +80,7 @@
         &__right {
             font-size: 2.25rem;
 
+
             &__item {
                 @include flex(center, center);
 
@@ -88,6 +92,9 @@
             @include mobile {
                 font-size: 1.5rem;
             }
+        }
+        &_right:first-child{
+            display:none;
         }
 
         &__left {
@@ -135,4 +142,7 @@
             }
         }
     }
+}
+.none{
+    display:none;
 }

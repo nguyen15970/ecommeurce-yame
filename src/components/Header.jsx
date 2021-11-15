@@ -1,12 +1,12 @@
 import React, { useRef, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 
-import logo from '../assets/images/Logo-2.png'
+// import logo from '../assets/images/Logo-2.png'
 
 const mainNav = [
     {
         display: "Trang chủ",
-        path: "/"
+        path: "/ecommeurce-yame"
     },
     {
         display: "Sản phẩm",
@@ -50,9 +50,7 @@ const Header = () => {
         <div className="header" ref={headerRef}>
             <div className="container">
                 <div className="header__logo">
-                    <Link to="/">
-                        <img src={logo} alt="" />
-                    </Link>
+                   <div>YAME</div>
                 </div>
                 <div className="header__menu">
                     <div className="header__menu__mobile-toggle" onClick={menuToggle}>
@@ -77,7 +75,7 @@ const Header = () => {
                         }
                     </div>
                     <div className="header__menu__right">
-                        <div className="header__menu__item header__menu__right__item">
+                        <div className="header__menu__item header__menu__right__item none">
                             <i className="bx bx-search"></i>
                         </div>
                         <div className="header__menu__item header__menu__right__item">

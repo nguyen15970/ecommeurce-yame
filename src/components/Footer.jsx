@@ -103,8 +103,8 @@ const Footer = () => {
                     </div>
                     <div className="footer__about">
                         <p>
-                            <Link to="/">
-                                <img src={logo} className="footer__logo" alt="" />
+                            <Link to="/ecommeurce-yame">
+                                <h1>YAME</h1>
                             </Link>
                         </p>
                         <p>

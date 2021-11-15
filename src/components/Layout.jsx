@@ -14,7 +14,7 @@ const Layout = () => {
             <Route render={props => (
                 <div>
                     <Header {...props}/>
-                    <div className="container">
+                    <div className="container hero__slider">
                         <div className="main">
                             <Routes/>
                         </div>
