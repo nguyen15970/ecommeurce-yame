@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ecommeurce-yame/static/css/main.03fe42ec.chunk.css",
-    "main.js": "/ecommeurce-yame/static/js/main.6813b430.chunk.js",
-    "main.js.map": "/ecommeurce-yame/static/js/main.6813b430.chunk.js.map",
-    "runtime-main.js": "/ecommeurce-yame/static/js/runtime-main.cecbcae7.js",
-    "runtime-main.js.map": "/ecommeurce-yame/static/js/runtime-main.cecbcae7.js.map",
-    "static/js/2.b6d66d6c.chunk.js": "/ecommeurce-yame/static/js/2.b6d66d6c.chunk.js",
-    "static/js/2.b6d66d6c.chunk.js.map": "/ecommeurce-yame/static/js/2.b6d66d6c.chunk.js.map",
-    "static/js/3.44d07196.chunk.js": "/ecommeurce-yame/static/js/3.44d07196.chunk.js",
-    "static/js/3.44d07196.chunk.js.map": "/ecommeurce-yame/static/js/3.44d07196.chunk.js.map",
+    "main.css": "/ecommeurce-yame/static/css/main.b96ecb26.chunk.css",
+    "main.js": "/ecommeurce-yame/static/js/main.3511f52a.chunk.js",
+    "main.js.map": "/ecommeurce-yame/static/js/main.3511f52a.chunk.js.map",
+    "runtime-main.js": "/ecommeurce-yame/static/js/runtime-main.b9dab96d.js",
+    "runtime-main.js.map": "/ecommeurce-yame/static/js/runtime-main.b9dab96d.js.map",
+    "static/js/2.28fa524b.chunk.js": "/ecommeurce-yame/static/js/2.28fa524b.chunk.js",
+    "static/js/2.28fa524b.chunk.js.map": "/ecommeurce-yame/static/js/2.28fa524b.chunk.js.map",
+    "static/js/3.899bf305.chunk.js": "/ecommeurce-yame/static/js/3.899bf305.chunk.js",
+    "static/js/3.899bf305.chunk.js.map": "/ecommeurce-yame/static/js/3.899bf305.chunk.js.map",
     "index.html": "/ecommeurce-yame/index.html",
-    "static/css/main.03fe42ec.chunk.css.map": "/ecommeurce-yame/static/css/main.03fe42ec.chunk.css.map",
-    "static/js/2.b6d66d6c.chunk.js.LICENSE.txt": "/ecommeurce-yame/static/js/2.b6d66d6c.chunk.js.LICENSE.txt",
+    "static/css/main.b96ecb26.chunk.css.map": "/ecommeurce-yame/static/css/main.b96ecb26.chunk.css.map",
+    "static/js/2.28fa524b.chunk.js.LICENSE.txt": "/ecommeurce-yame/static/js/2.28fa524b.chunk.js.LICENSE.txt",
     "static/media/Logo-2.3f227664.png": "/ecommeurce-yame/static/media/Logo-2.3f227664.png",
     "static/media/banner.3c5f3ab8.png": "/ecommeurce-yame/static/media/banner.3c5f3ab8.png",
     "static/media/boxicons.min.css": "/ecommeurce-yame/static/media/boxicons.cbd149c5.ttf",
@@ -41,9 +41,9 @@
     "static/media/product-12 (2).jpg": "/ecommeurce-yame/static/media/product-12 (2).54514ffa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cecbcae7.js",
-    "static/js/2.b6d66d6c.chunk.js",
-    "static/css/main.03fe42ec.chunk.css",
-    "static/js/main.6813b430.chunk.js"
+    "static/js/runtime-main.b9dab96d.js",
+    "static/js/2.28fa524b.chunk.js",
+    "static/css/main.b96ecb26.chunk.css",
+    "static/js/main.3511f52a.chunk.js"
   ]
 }
