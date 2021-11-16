@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecommeurce-yame/static/css/main.b96ecb26.chunk.css",
+    "main.css": "/ecommeurce-yame/static/css/main.2da9102a.chunk.css",
     "main.js": "/ecommeurce-yame/static/js/main.3511f52a.chunk.js",
     "main.js.map": "/ecommeurce-yame/static/js/main.3511f52a.chunk.js.map",
     "runtime-main.js": "/ecommeurce-yame/static/js/runtime-main.b9dab96d.js",
@@ -10,7 +10,7 @@
     "static/js/3.899bf305.chunk.js": "/ecommeurce-yame/static/js/3.899bf305.chunk.js",
     "static/js/3.899bf305.chunk.js.map": "/ecommeurce-yame/static/js/3.899bf305.chunk.js.map",
     "index.html": "/ecommeurce-yame/index.html",
-    "static/css/main.b96ecb26.chunk.css.map": "/ecommeurce-yame/static/css/main.b96ecb26.chunk.css.map",
+    "static/css/main.2da9102a.chunk.css.map": "/ecommeurce-yame/static/css/main.2da9102a.chunk.css.map",
     "static/js/2.28fa524b.chunk.js.LICENSE.txt": "/ecommeurce-yame/static/js/2.28fa524b.chunk.js.LICENSE.txt",
     "static/media/Logo-2.3f227664.png": "/ecommeurce-yame/static/media/Logo-2.3f227664.png",
     "static/media/banner.3c5f3ab8.png": "/ecommeurce-yame/static/media/banner.3c5f3ab8.png",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.b9dab96d.js",
     "static/js/2.28fa524b.chunk.js",
-    "static/css/main.b96ecb26.chunk.css",
+    "static/css/main.2da9102a.chunk.css",
     "static/js/main.3511f52a.chunk.js"
   ]
 }
